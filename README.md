@@ -1,8 +1,9 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+A simple node.js app to generate tickets from multiple desks.
+using socket.io to show notifications on different screens (Routes).
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Run this command to install dependencies.
 
 ```
 npm install
